@@ -92,7 +92,7 @@
 <br/>  
 
 <div align="center">
-            <a href="https://ko-fi.com/Ko-fi.com/playboi" target="_blank" style="display: inline-block;">
+            <a href="https://ko-fi.com/playboi" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
                     align="center"
