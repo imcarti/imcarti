@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Carti, a loner 15 year old kid that's learning coding languages instead of real ones :)</div>  
+## <div align="center">I'm Carti, a loner 15 year old kid that's learning coding languages instead of real ones :)</div>  
   
 
 - ⚒️I'm working on a discord server named Carti's Studio and a discord bot to go along with it!  
